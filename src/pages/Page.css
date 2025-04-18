@@ -1,0 +1,16 @@
+.page {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .page h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .page a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
